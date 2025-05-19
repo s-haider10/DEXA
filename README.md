@@ -22,6 +22,4 @@ DEXA supports both **zero-shot** and **few-shot** prompting modes, with a feedba
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/DEXA.git
-   cd DEXA
+2. Add OpenAI and Together.AI API in .env file
