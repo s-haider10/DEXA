@@ -1,0 +1,3 @@
+dataset,prompt,model,query,code,viz,explaination_qual,domain_alignment
+titanic, zero,gpt4,1,1,5,5,5
+titanic, zero,gpt4,2,
