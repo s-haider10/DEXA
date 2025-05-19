@@ -65,9 +65,9 @@ Boston, few, gpt4,9,1,5,5,5
 
 titanic, few, Llama4,1,1,5,5,5
 titanic, few, Llama4,2,1,5,5,5
-titanic, few, Llama4,3,1,5,4,5
-titanic, few, Llama4,4,1,5,5,5
-titanic, few, Llama4,5,0,0,0,0
+titanic, few, Llama4,3,1,5,5,5
+titanic, few, Llama4,4,1,4.5,4,5
+titanic, few, Llama4,5,1,5,5,5
 titanic, few, Llama4,6,1,5,5,5
 titanic, few, Llama4,7,1,5,5,5
 titanic, few, Llama4,8,1,5,5,5
