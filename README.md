@@ -1,5 +1,10 @@
 # DEXA: Data Exploration via eXplanatory AI
 
+## Contributors:
+
+* Syed Ali Haider
+* Rao Daud Ali Khan
+
 **DEXA** (Data Exploration via eXplanatory AI) is a framework designed to translate natural language queries into safe, explainable, and executable code for dataset analysis (multimodal analysis). It leverages large language models (LLMs) alongside schema-aware prompt engineering to generate code, visualizations, and textual explanations of data.
 
 DEXA supports both **zero-shot** and **few-shot** prompting modes, with a feedback loop for safety and interpretability. It has been evaluated on real-world datasets through both automated metrics (code execution) and human feedback using multiple LLMs (GPT-4, LLaMA-4).
